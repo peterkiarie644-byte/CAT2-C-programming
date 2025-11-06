@@ -1,3 +1,6 @@
+/*Name:Peter kiarie mwaura
+Reg:CT100/G/26128/25
+ Description : Arrays   */
 //Array-it is a fixed-size collection of similar data items stored in contagious memory location
 
 
