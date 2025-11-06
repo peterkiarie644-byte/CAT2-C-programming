@@ -1,3 +1,6 @@
+/*Name:Peter kiarie mwaura
+Reg:CT100/G/26128/25
+ Description : Pay details  */
 #include <stdio.h>
 
 // Function to calculate and print the pay details
