@@ -1,3 +1,6 @@
+/*Name:Peter kiarie mwaura
+Reg:CT100/G/26128/25
+ Description : Files   */
 #include <stdio.h>
 
 int main() {
